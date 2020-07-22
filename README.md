@@ -1,0 +1,2 @@
+# stringcomparetwo
+Compares two strings.
